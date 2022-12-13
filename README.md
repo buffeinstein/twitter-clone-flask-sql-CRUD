@@ -1,11 +1,11 @@
 # project5twitterclone
 A project to test out Flask! This project is called "Twitter Clone" 
 
-**TOTAL: 28.5/40 pts**
+**TOTAL: 31.5/40 pts**
 
 I've completed these tasks: 
 
-**1) Create a Home page - 5.5 pts**
+**1) Create a Home page - 5 pts**
 - a link to this page should always be visible in your menu, whether the user is logged in or not logged in
 - this route displays all the messages in the system
 - the messages should be ordered chronologically with the most recent message at the top
@@ -23,10 +23,11 @@ I've completed these tasks:
 - a link to this page should only be visible if the user is logged in
 - this route will delete the cookies that the log in form creates, logging the user out
 
-**4) Create new user accounts - 5 pts**
+**4) Create new user accounts - 6 pts**
 - a link to this page should only be visible in your menu if the user is not logged in
 - if the user attempts to create an account that already exists, they should get an appropriate error message
 - the user should be prompted to enter their password twice; if the passwords do not match, they should get an appropriate error message
+- Automatically log a user into a newly created user account, and redirect the user to the home page (instead of the create user page) - **3 pts**
 
 **5) Create a message - 5 pts**
 - a link to this page should only be visible in your menu if the user is logged in
