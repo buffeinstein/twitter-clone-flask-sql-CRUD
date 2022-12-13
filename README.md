@@ -3,12 +3,13 @@ A project to test out Flask! This project is called "Twitter Clone"
 
 I've completed these tasks: 
 
-**1) Create a Home page - 5 pts**
+**1) Create a Home page - 5.5 pts**
 - a link to this page should always be visible in your menu, whether the user is logged in or not logged in
 - this route displays all the messages in the system
 - the messages should be ordered chronologically with the most recent message at the top
-- each message should include the user account that created it, the time of creation, and the message contents
+- each message should include the user account that created it, the time of creation, and the message contents. time of creation doesn't have decimal points in it - **0.5 pts**
 - at least one message must contain a single quote ' and a double quote "
+- 
 
 **2) Create a Log-in page - 5 pts**
 - a link to this page should only be visible in your menu if the user is not logged in
