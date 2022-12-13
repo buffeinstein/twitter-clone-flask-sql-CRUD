@@ -1,6 +1,8 @@
 # project5twitterclone
 A project to test out Flask! This project is called "Twitter Clone" 
 
+**TOTAL: 28.5/40 pts**
+
 I've completed these tasks: 
 
 **1) Create a Home page - 5.5 pts**
