@@ -13,7 +13,7 @@ I've completed these tasks:
 - at least one message must contain a single quote ' and a double quote "
 
 
-2) Create a Log-in page -** 5 pts**
+2) Create a Log-in page -**5 pts**
 - a link to this page should only be visible in your menu if the user is not logged in
 - this route will present a form for the user to enter their username/password; the password box must not display the user's password as they are typing it in
 - you must display appropriate error messages if the user enters an incorrect username/password
