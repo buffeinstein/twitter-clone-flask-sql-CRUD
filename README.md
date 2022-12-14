@@ -1,7 +1,7 @@
 # project5twitterclone
 A project to test out Flask! This project is called "Twitter Clone" 
 
-**TOTAL: 37.5/40 pts**
+**TOTAL: 43.5/40 pts**
 
 I've completed these tasks: 
 
@@ -37,5 +37,7 @@ I've completed these tasks:
 6) Allow changing the password after creating an account. You must have a password reset form that forces the user to type in their old password and a new password twice - **3 pts**
 
 7) Add user profile pages that displays the most recent messages posted by that user - **3 pts**
+
+8) Add the ability to search for messages. The search should be done with SQL's LIKE operator, and not within python- **6 pts**
 
 8) Styled these pages with HTML/CSS - **3 pts**
