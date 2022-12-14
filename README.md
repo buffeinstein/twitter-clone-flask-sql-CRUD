@@ -1,7 +1,7 @@
 # project5twitterclone
 A project to test out Flask! This project is called "Twitter Clone" 
 
-**TOTAL: 31.5/40 pts**
+**TOTAL: 34.5/40 pts**
 
 I've completed these tasks: 
 
@@ -34,4 +34,6 @@ I've completed these tasks:
 - the user must be able to enter whatever message body they want, but you will also need to store the user id of the user that created a message and the time the message was created
 - you will only get credit for this route if the message correctly shows up on the home route after creation
 
-**6) Styled these pages with HTML/CSS - 3 pts**
+**6) Allow changing the password after creating an account. You must have a password reset form that forces the user to type in their old password and a new password twice - 3 pts**
+
+**7) Styled these pages with HTML/CSS - 3 pts**
