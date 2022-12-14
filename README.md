@@ -23,7 +23,7 @@ I've completed these tasks:
 - a link to this page should only be visible if the user is logged in
 - this route will delete the cookies that the log in form creates, logging the user out
 
-**4) Create new user accounts - 6 pts**
+**4) Create new user accounts - 5 pts**
 - a link to this page should only be visible in your menu if the user is not logged in
 - if the user attempts to create an account that already exists, they should get an appropriate error message
 - the user should be prompted to enter their password twice; if the passwords do not match, they should get an appropriate error message
