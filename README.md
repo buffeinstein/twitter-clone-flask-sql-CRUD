@@ -11,7 +11,7 @@ I've completed these tasks:
 - the messages should be ordered chronologically with the most recent message at the top
 - each message should include the user account that created it, the time of creation, and the message contents. time of creation doesn't have decimal points in it - **0.5 pts**
 - at least one message must contain a single quote ' and a double quote "
-- 
+
 
 2) Create a Log-in page -** 5 pts**
 - a link to this page should only be visible in your menu if the user is not logged in
@@ -19,7 +19,7 @@ I've completed these tasks:
 - you must display appropriate error messages if the user enters an incorrect username/password
 - after a user successfully logs in, you must automatically redirect them to the homepage
 
-) Log out - **5 pts**
+3) Log out - **5 pts**
 - a link to this page should only be visible if the user is logged in
 - this route will delete the cookies that the log in form creates, logging the user out
 
